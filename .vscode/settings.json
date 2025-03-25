@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.robot": "robot",
+        "stdio.h": "c"
+    }
+}
